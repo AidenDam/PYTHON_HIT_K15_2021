@@ -1,0 +1,9 @@
+Đặc điểm của Python
++ Ngôn ngữ lập trình đơn giản, dễ học – dễ học
++ Miễn phí, mã nguồn mở
++ Có thể chạy trên hầu hết bất kỳ hệ điều hành nào - Khả năng di động linh hoạt
++ Khả năng mở rộng và có thể nhúng
++ Ngôn ngữ thông dịch cấp cao
++ Thư viện tiêu chuẩn lớn để giải quyết những tác vụ phổ biến
++ Hướng đối tượng
++ Chậm
